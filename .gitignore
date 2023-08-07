@@ -1,7 +1,19 @@
 # Gradle files
 .gradle/
-build/
-
+buil<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My E-Commerce Store</title>
+</head>
+<body>
+  <h1>Welcome to My E-Commerce Store</h1>
+  <div id="product-list">
+    <!-- Product listings will be displayed here -->
+  </div>
+</body>
+</html>
 # Local configuration file (sdk path, etc)
 local.properties
 
